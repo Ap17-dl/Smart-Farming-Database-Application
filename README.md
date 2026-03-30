@@ -52,7 +52,7 @@ Also download Node modules files and put in the folder before running.
 - Prerequisites
 --> Node.js
 --> MySQL
-# Steps
+- Steps
 1. Install dependencies
 >> pnpm install
 2. Configure environment variables
@@ -66,18 +66,13 @@ Also download Node modules files and put in the folder before running.
 >> npm run dev
 
 # Revenue Calculation
---> Revenue = Quantity × Price
+- Revenue = Quantity × Price
 
 # Functionality
---> CRUD operations for farmers, crops, and sales
---> Search functionality
---> Basic analytics on dashboard
---> Data stored and retrieved using MySQL
-
-# Notes
-Designed for academic and learning purposes
-Demonstrates database integration with a web application
-Simple and easy-to-understand structure
+-CRUD operations for farmers, crops, and sales
+- Search functionality
+- Basic analytics on dashboard
+- Data stored and retrieved using MySQL
 
 # Author
 ANKUSH PRATHAM
