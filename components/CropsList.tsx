@@ -4,7 +4,7 @@ import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { Trash2, Edit2, Search } from 'lucide-react';
 import { useState } from 'react';
-import EditCropDialog from './edit-crop-dialog';
+import EditCropDialog from './EditCropDialog';
 
 interface CropsListProps {
   crops: any[];

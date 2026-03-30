@@ -1,9 +1,9 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import Navigation from '@/components/navigation';
-import FarmersList from '@/components/farmers-list';
-import FarmerForm from '@/components/farmer-form';
+import Navigation from '@/components/Navigation';
+import FarmersList from '@/components/FarmersList';
+import FarmerForm from '@/components/FarmerForm';
 import { Card } from '@/components/ui/card';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { toast } from 'sonner';

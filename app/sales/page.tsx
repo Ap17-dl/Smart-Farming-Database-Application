@@ -1,9 +1,9 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import Navigation from '@/components/navigation';
-import SalesList from '@/components/sales-list';
-import SaleForm from '@/components/sale-form';
+import Navigation from '@/components/Navigation';
+import SalesList from '@/components/SalesList';
+import SaleForm from '@/components/SaleForm';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { toast } from 'sonner';

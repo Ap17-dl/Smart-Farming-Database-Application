@@ -5,7 +5,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { BarChart, Bar, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import Link from 'next/link';
 import { Leaf } from 'lucide-react';
-import Navigation from '@/components/navigation';
+import Navigation from '@/components/Navigation';
 
 export default function Dashboard() {
   const [analytics, setAnalytics] = useState<any>(null);

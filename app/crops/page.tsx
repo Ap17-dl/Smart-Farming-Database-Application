@@ -1,9 +1,9 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import Navigation from '@/components/navigation';
-import CropsList from '@/components/crops-list';
-import CropForm from '@/components/crop-form';
+import Navigation from '@/components/Navigation';
+import CropsList from '@/components/CropsList';
+import CropForm from '@/components/CropForm';
 import { Card } from '@/components/ui/card';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { toast } from 'sonner';
